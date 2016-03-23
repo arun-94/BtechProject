@@ -1,0 +1,16 @@
+driver_name=com.mysql.jdbc.Driver
+connection_type=jdbc:mysql:
+server_ip=//localhost:
+port_no=3306/
+database=Test_Validator
+dbuser=root
+dbpassword=
+
+
+driver_name=oracle.jdbc.driver.OracleDriver
+connection_type=jdbc:oracle:thin:
+server_ip=@localhost:
+port_no=1521
+database=:root
+dbuser=system
+dbpassword=root
